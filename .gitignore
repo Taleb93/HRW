@@ -1,0 +1,8 @@
+# Ignoriere .onnx Dateien
+*.onnx
+
+# Ignoriere .trt Dateien
+*.trt
+
+# Ignoriere .jpg Dateien
+*.jpg
